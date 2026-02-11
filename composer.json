@@ -1,4 +1,7 @@
 {
+  "name": "ausidevelopmentpm/dsgvoform",
+  "description": "a Form that pop ups when you join the server and asks you to accept the DSGVO",
+  "version": "1.0.0",
   "require": {
     "pocketmine/pocketmine-mp": "5.39.3",
     "dktapps/pmforms": "2.3.0"
