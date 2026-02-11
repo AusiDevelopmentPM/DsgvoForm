@@ -1,0 +1,6 @@
+{
+  "require": {
+    "pocketmine/pocketmine-mp": "5.39.3",
+    "dktapps/pmforms": "2.3.0"
+  }
+}
