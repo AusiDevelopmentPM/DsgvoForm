@@ -1,0 +1,8 @@
+name: DsgvoForm
+version: 1.0.0
+api: 5.0.0
+author: AusiDevelopmentPM
+authors:
+  - EyNoah1171
+
+main: AusiDevelopmentPM\DsgvoForm\Main
